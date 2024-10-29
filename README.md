@@ -12,3 +12,8 @@
 
 - vercel
 - postgres
+
+## Preview
+https://next-starter-lins-projects-36d29316.vercel.app/dashboard
+user name: 'user@nextmail.com'
+password: '123456'
