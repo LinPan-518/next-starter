@@ -1,5 +1,13 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+The technology used in this project:
+React
+Next.js
+Typescript
+Tailwind CSS / clsx
+Zod
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+bcrypt
+next-auth
+
+vercel
