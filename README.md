@@ -1,13 +1,14 @@
-## Next.js App Router Course
+## Next.js App
 
-The technology used in this project:
-React
-Next.js
-Typescript
-Tailwind CSS / clsx
-Zod
+## The technology used in this project:
+- React
+- Next.js
+- Typescript
+- Tailwind CSS / clsx
+- Zod
 
-bcrypt
-next-auth
+- bcrypt
+- next-auth
 
-vercel
+- vercel
+- postgres
